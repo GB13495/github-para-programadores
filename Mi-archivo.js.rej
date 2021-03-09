@@ -1,0 +1,7 @@
+diff a/Mi-archivo.js b/Mi-archivo.js	(rejected hunks)
+@@ -4,4 +4,5 @@
+ +<<<<<<< HEAD
+ +console.log("cambios en local");
+ +=======
++ console.log("cambiosSourceTree");
+ +>>>>>>> 33683d6b5e0007db557c64843fdff597f1433f94
